@@ -1,5 +1,5 @@
-#ifndef WEKTOR_HPP
-#define WEKTOR_HPP
+#ifndef HQRP_WEKTOR_HPP
+#define HQRP_WEKTOR_HPP
 
 #include <algorithm>
 #include <cmath>
